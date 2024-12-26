@@ -1,6 +1,6 @@
 {
   "name": "concat-str",
-  "main": "./src/index.ts",
+  "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "version": "1.0.5",
   "description": "concatinate multiple strings using a simple function",
