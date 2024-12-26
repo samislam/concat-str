@@ -1,0 +1,21 @@
+{
+  "name": "concat-str",
+  "module": "./src/index.ts",
+  "version": "1.0.0",
+  "description": "concatinate multiple strings using a simple function",
+  "author": "Islam Yamor",
+  "type": "commonjs",
+  "prettier": "@samislam/prettier-config",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"./src/**/*.ts\" \"./README.md\" "
+  },
+  "devDependencies": {
+    "@samislam/prettier-config": "^1.1.1",
+    "@types/bun": "latest",
+    "prettier": "^3.4.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
