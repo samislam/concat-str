@@ -2,7 +2,7 @@
   "name": "concat-str",
   "main": "./src/index.ts",
   "types": "./dist/index.d.ts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "concatinate multiple strings using a simple function",
   "author": "Islam Yamor",
   "type": "commonjs",
